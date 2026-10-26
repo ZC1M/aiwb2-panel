@@ -1,0 +1,8 @@
+# 运行数据与会话，永远不进仓库
+数据/
+node_modules/
+*.log
+启动日志.txt
+诊断结果.txt
+.env
+*.pem
